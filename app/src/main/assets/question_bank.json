@@ -1,0 +1,200 @@
+[
+  {
+    "question": "每天建议喝多少水？",
+    "options": ["1L", "1.5L", "2L", "3L"],
+    "correctIndex": 2,
+    "explanation": "成年人建议每天喝 2L 水"
+  },
+  {
+    "question": "哪种食物富含维生素C？",
+    "options": ["大米", "胡萝卜", "苹果", "橙子"],
+    "correctIndex": 3,
+    "explanation": "橙子富含维C"
+  },
+  {
+    "question": "维生素D主要通过什么方式获取？",
+    "options": ["睡觉", "晒太阳", "喝水", "跑步"],
+    "correctIndex": 1,
+    "explanation": "维生素D主要来源是阳光照射"
+  },
+  {
+    "question": "人体每日推荐摄入的膳食纤维约为多少克？",
+    "options": ["5-10克", "10-15克", "20-30克", "40-50克"],
+    "correctIndex": 2,
+    "explanation": "成年人每日推荐膳食纤维摄入量为20~30克"
+  },
+  {
+    "question": "以下哪种脂肪类型被认为有益心血管健康？",
+    "options": ["反式脂肪", "饱和脂肪", "多不饱和脂肪", "动物脂肪"],
+    "correctIndex": 2,
+    "explanation": "多不饱和脂肪如Omega-3对心脏健康有益"
+  },
+  {
+    "question": "持续高盐饮食最有可能导致以下哪种疾病？",
+    "options": ["糖尿病", "高血压", "骨质疏松", "哮喘"],
+    "correctIndex": 1,
+    "explanation": "高盐饮食会增加高血压的风险"
+  },
+  {
+    "question": "以下哪项行为不利于肠道菌群平衡？",
+    "options": ["食用益生元", "食用酸奶", "长期使用抗生素", "摄入膳食纤维"],
+    "correctIndex": 2,
+    "explanation": "长期使用抗生素会破坏肠道有益菌群"
+  },
+  {
+    "question": "哪项不是世界卫生组织推荐的健康睡眠习惯？",
+    "options": ["规律作息", "午后喝咖啡", "睡前避免电子屏幕", "创造舒适的睡眠环境"],
+    "correctIndex": 1,
+    "explanation": "午后饮用咖啡会影响晚间睡眠质量"
+  },
+  {
+    "question": "BMI（身体质量指数）主要用于衡量？",
+    "options": ["肌肉含量", "体脂率", "肥胖程度", "骨骼密度"],
+    "correctIndex": 2,
+    "explanation": "BMI常用于评估体重是否在健康范围"
+  },
+  {
+    "question": "以下哪项与代谢综合征无关？",
+    "options": ["腹部肥胖", "高血压", "高血糖", "哮喘"],
+    "correctIndex": 3,
+    "explanation": "哮喘不属于代谢综合征的组成部分"
+  },
+  {
+    "question": "下列哪种食物是铁的良好膳食来源？",
+    "options": ["白米饭", "菠菜", "鸡蛋白", "橙子"],
+    "correctIndex": 1,
+    "explanation": "菠菜富含植物性铁，但吸收率相对较低"
+  },
+  {
+    "question": "成年人每天摄入的钠应控制在多少毫克以下？",
+    "options": ["5000mg", "3000mg", "2000mg", "1000mg"],
+    "correctIndex": 2,
+    "explanation": "世界卫生组织建议钠摄入低于2000mg/天"
+  },
+  {
+    "question": "久坐对健康的主要危害不包括以下哪一项？",
+    "options": ["增加心血管病风险", "降低基础代谢", "增强骨密度", "促进肥胖"],
+    "correctIndex": 2,
+    "explanation": "久坐会削弱骨密度而非增强"
+  },
+  {
+    "question": "长时间摄入高果糖玉米糖浆（HFCS）最可能导致什么健康问题？",
+    "options": ["脱发", "关节炎", "胰岛素抵抗", "骨折"],
+    "correctIndex": 2,
+    "explanation": "高果糖摄入与胰岛素抵抗和2型糖尿病风险升高密切相关"
+  },
+  {
+    "question": "下列哪种维生素属于脂溶性维生素？",
+    "options": ["维生素C", "维生素B1", "维生素K", "维生素B12"],
+    "correctIndex": 2,
+    "explanation": "维生素K为脂溶性，与A、D、E一同在体内储存"
+  },
+  {
+    "question": "睡眠周期中，快速眼动（REM）睡眠的主要作用是什么？",
+    "options": ["肌肉修复", "内分泌调节", "记忆整合", "骨骼生长"],
+    "correctIndex": 2,
+    "explanation": "REM睡眠与学习、记忆和情绪调节密切相关"
+  },
+  {
+    "question": "摄入过量反式脂肪酸会导致哪种脂蛋白水平升高？",
+    "options": ["HDL", "LDL", "VLDL", "Chylomicron"],
+    "correctIndex": 1,
+    "explanation": "反式脂肪会升高LDL（坏胆固醇）并降低HDL"
+  },
+  {
+    "question": "地中海饮食强调以下哪项？",
+    "options": ["高蛋白饮食", "高饱和脂肪", "大量全谷物和橄榄油", "限制蔬菜摄入"],
+    "correctIndex": 2,
+    "explanation": "地中海饮食以橄榄油、水果蔬菜、鱼类和全谷物为主"
+  },
+  {
+    "question": "下列哪种营养素摄入不足，可能导致夜盲症？",
+    "options": ["维生素B12", "铁", "维生素A", "钙"],
+    "correctIndex": 2,
+    "explanation": "维生素A缺乏会导致视紫红质合成障碍，引起夜盲"
+  },
+  {
+    "question": "人体约有多少百分比的水分？",
+    "options": ["30%-40%", "50%-60%", "70%-80%", "80%-90%"],
+    "correctIndex": 1,
+    "explanation": "成人体内平均水含量约占50%~60%"
+  },
+  {
+    "question": "长时间摄入高蛋白饮食可能增加以下哪一项器官负担？",
+    "options": ["肺", "肝", "肾", "脾"],
+    "correctIndex": 2,
+    "explanation": "高蛋白饮食可能增加肾脏代谢氮废物的负担"
+  },
+  {
+    "question": "哪种矿物质有助于调节神经冲动和肌肉收缩？",
+    "options": ["铁", "钠", "锌", "硒"],
+    "correctIndex": 1,
+    "explanation": "钠离子参与细胞膜电位维持，影响神经信号传导"
+  },
+  {
+    "question": "世界卫生组织推荐成人每周至少多少分钟的中等强度运动？",
+    "options": ["60分钟", "90分钟", "120分钟", "150分钟"],
+    "correctIndex": 3,
+    "explanation": "WHO建议成年人每周至少150分钟中等强度有氧运动"
+  },
+  {
+    "question": "成人体内铁的主要储存形式是？",
+    "options": ["转铁蛋白", "血红蛋白", "铁蛋白", "乳铁蛋白"],
+    "correctIndex": 2,
+    "explanation": "铁蛋白是体内主要储铁形式，用于调节铁的释放与储存"
+  },
+  {
+    "question": "长期缺乏维生素B12最可能引发下列哪种疾病？",
+    "options": ["夜盲症", "恶性贫血", "坏血病", "佝偻病"],
+    "correctIndex": 1,
+    "explanation": "维生素B12缺乏会导致神经损伤与巨幼红细胞性贫血（恶性贫血）"
+  },
+  {
+    "question": "世界卫生组织建议成年人每日添加糖摄入量应不超过总能量的多少？",
+    "options": ["20%", "15%", "10%", "5%"],
+    "correctIndex": 3,
+    "explanation": "WHO建议限制添加糖摄入至总能量的5%以下为最佳"
+  },
+  {
+    "question": "地中海饮食强调以下哪项摄入？",
+    "options": ["红肉", "反式脂肪", "橄榄油", "高糖零食"],
+    "correctIndex": 2,
+    "explanation": "橄榄油是地中海饮食的重要脂肪来源，有助心血管健康"
+  },
+  {
+    "question": "高甘油三酯血症若不干预，最易引发哪种急性疾病？",
+    "options": ["胰腺炎", "阑尾炎", "脑梗死", "肾结石"],
+    "correctIndex": 0,
+    "explanation": "严重高甘油三酯可诱发急性胰腺炎"
+  },
+  {
+    "question": "阿尔茨海默病与哪类生活方式因子有显著相关性？",
+    "options": ["高蛋白饮食", "慢性应激", "钠摄入过多", "适度运动"],
+    "correctIndex": 1,
+    "explanation": "长期慢性压力与炎症被认为是阿尔茨海默病的风险因素之一"
+  },
+  {
+    "question": "“中国居民膳食指南”建议每天摄入多少种以上不同食物？",
+    "options": ["5种", "10种", "12种", "15种"],
+    "correctIndex": 2,
+    "explanation": "膳食指南建议每日至少摄入12种不同食物，周达25种以上"
+  },
+  {
+    "question": "下列哪种维生素属于脂溶性？",
+    "options": ["维生素B1", "维生素C", "维生素E", "叶酸"],
+    "correctIndex": 2,
+    "explanation": "维生素E是脂溶性维生素，与A、D、K一样易蓄积体内"
+  },
+  {
+    "question": "慢性病的共同危险因素不包括以下哪一项？",
+    "options": ["烟草使用", "高盐饮食", "病原体感染", "身体活动不足"],
+    "correctIndex": 2,
+    "explanation": "病原体感染主要导致传染病，非慢性病的主要危险因素"
+  },
+  {
+    "question": "营养标签中的NRV%表示什么？",
+    "options": ["营养摄入限量", "能量比值", "每日营养素参考值百分比", "每百克热量"],
+    "correctIndex": 2,
+    "explanation": "NRV%是每日推荐摄入量（Nutrient Reference Value）的百分比"
+  }
+]
