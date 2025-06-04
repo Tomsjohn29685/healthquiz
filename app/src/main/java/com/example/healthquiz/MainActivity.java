@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         btnViewHistory.setOnClickListener(view ->
                 startActivity(new Intent(MainActivity.this, ScoreHistoryActivity.class)));
 
-        // 跳转到其他功能界面（健康链接、WebView 等）
+        // 跳转到其他功能界面
         btnOtherFeatures.setOnClickListener(view ->
                 startActivity(new Intent(MainActivity.this, OtherFeaturesActivity.class)));
     }
